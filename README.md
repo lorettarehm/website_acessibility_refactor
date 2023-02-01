@@ -1,4 +1,4 @@
-# 1st_week_challenge: HTML CSS Git Code Refactor
+# HTML CSS Git Code Refactor
 Repository for the challenge of the first week of bootcamp ➡ 04-code-refactor-lesson
 
 ![badmath](https://img.shields.io/badge/HTML-55%25-%23e34c26)&nbsp;&nbsp;&nbsp;![badmath](https://img.shields.io/badge/CSS-45%25-%23563d7c)
